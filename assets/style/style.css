@@ -1,0 +1,56 @@
+.socmed-bar {
+    position: relative;
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+  
+.socmed-bar:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX( -50%);
+  height: 100%;
+  width: 100vw;
+  background: #f8f9fa!important;
+}
+
+.bantuan-bar {
+    position: relative;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    font-size: x-small;
+  }
+  
+.bantuan-bar:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX( -50%);
+  height: 100%;
+  width: 100vw;
+  background: #57b6ff!important;
+}
+
+.footer-bar {
+    position: relative;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    font-size: smaller;
+  }
+  
+.footer-bar:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX( -50%);
+  height: 100%;
+  width: 100vw;
+  background: #404040!important;
+}
+
+html {
+  overflow-x: hidden;
+}

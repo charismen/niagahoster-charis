@@ -1,0 +1,75 @@
+{
+    "Bayi": {
+        "nama": "Bayi",
+        "harga": 19900,
+        "hargaDiskon": 14900,
+        "penggunaTerdaftar": 938,
+        "fitur": [
+            "0.5X Resource Power",
+            "500 MB Disk Space",
+            "Unlimited Bandwidth",
+            "Unlimited Databases",
+            "1 Domain",
+            "Instant Backup",
+            "Unlimited SSL Gratis Selamanya"
+        ]
+    },
+    "Pelajar": {
+      "nama": "Pelajar",
+        "harga": 46900,
+        "hargaDiskon": 23450,
+        "penggunaTerdaftar": 4168,
+        "fitur": [
+          "1X Resource Power",
+          "Unlimited Disk Space",
+          "Unlimited Bandwidth",
+          "Unlimited POP3 Email",
+          "Unlimited Databases",
+          "10 Addon Domain",
+          "Instant Backup",
+          "Domain Gratis Selamanya",
+          "Unlimited SSL Gratis Selamanya"
+        ]
+    },
+    "Personal": {
+        "nama": "Personal",
+        "harga": 58900,
+        "hargaDiskon": 38900,
+        "penggunaTerdaftar": 10017,
+        "fitur": [
+          "2X Resource Power",
+          "Unlimited Disk Space",
+          "Unlimited Bandwidth",
+          "Unlimited POP3 Email",
+          "Unlimited Databases",
+          "Unlimited Addon Domain",
+          "Instant Backup",
+          "Domain Gratis Selamanya",
+          "Unlimited SSL Gratis Selamanya",
+          "Private Name Server",
+          "SpamAssasin Mail Protection"
+        ]
+    },
+    "Bisnis": {
+        "nama": "Bisnis",
+        "harga": 109900,
+        "hargaDiskon": 65900,
+        "penggunaTerdaftar": 3552,
+        "fitur": [
+          "3X Resource Power",
+          "Unlimited Disk Space",
+          "Unlimited Bandwidth",
+          "Unlimited POP3 Email",
+          "Unlimited Databases",
+          "Unlimited Addon Domain",
+          "Magic Auto Backup & Restore",
+          "Domain Gratis Selamanya",
+          "Unlimited SSL Gratis Selamanya",
+          "Private Name Server",
+          "Prioritas Layanan Support",
+          "*****",
+          "SpamExpert Pro Mail Protection"
+        ]
+    }
+  }
+  

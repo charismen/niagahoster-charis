@@ -1,0 +1,58 @@
+{
+    "result": [
+        {
+            "nama": "layanan",
+            "isi": [
+                "Domain",
+                "Shared Hosting",
+                "Cloud VPS Hosting",
+                "Managed VPS Hosting",
+                "Web Builder",
+                "Keamanan SSL / HTTPS",
+                "Jasa Pembuatan Website",
+                "Program Affiliasi"
+            ]
+        },
+        {
+            "nama": "service hosting",
+            "isi": [
+                "Hosting Murah",
+                "Hosting Indonesia",
+                "Hosting Singapura SG",
+                "Hosting PHP",
+                "Hosting Wordpress",
+                "Hosting Laravel"
+            ]
+        },
+        {
+            "nama": "tutorial",
+            "isi": [
+                "Knowledgebase",
+                "Blog",
+                "Cara Pembayaran"
+            ]
+        }
+    ],
+    "niagahoster": [
+        {
+            "nama": "tentang kami",
+            "isi": [
+                "Tim Niagahoster",
+                "Karir",
+                "Events",
+                "Penawaran & Promo Spesial",
+                "Kontak Kami"
+            ]
+        },
+        {
+            "nama": "kenapa pilih niagahoster?",
+            "isi": [
+                "Support Terbaik",
+                "Garansi Harga Termurah",
+                "Domain Gratis Selamanya",
+                "Datacenter Hosting Terbaik",
+                "Review Pelanggan"
+            ]
+        }
+    ]
+}
